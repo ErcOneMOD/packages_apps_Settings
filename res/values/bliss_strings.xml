@@ -509,6 +509,11 @@ sword is entered</string>
     <string name="shortcut_action_app">Custom app</string>
     <string name="shortcut_action_home">Home</string>
     <string name="shortcut_action_back">Back</string>
+    <string name="shortcut_action_kill">Kill app</string>
+    <string name="shortcut_action_lastapp">Last app</string>
+    <string name="shortcut_action_assist">Search</string>
+    <string name="shortcut_action_screenshot">Screenshot</string>
+    <string name="shortcut_action_torch">Torch</string>
     <string name="shortcut_action_menu">Menu</string>
     <string name="shortcut_action_ime">Open IME Switcher</string>
     <string name="shortcut_action_power_menu">Power menu</string>
@@ -1175,9 +1180,12 @@ sword is entered</string>
     <string name="heads_up_touch_outside_summary_disabled">Do not hide notification after touch outside or on home button press</string>
     
     <!-- Status bar greeting -->
+    <string name="status_bar_greeting_category_title">Statusbar greeting</string>
     <string name="status_bar_greeting_title">Greeting</string>
     <string name="status_bar_greeting_summary">Display a custom greeting in the status bar after unlocking the device</string>
     <string name="status_bar_greeting_dialog">Set your greeting</string>
+    <string name="status_bar_greeting_main">Welcome to Bliss</string>
+    <string name="status_bar_greeting_timeout_title">Greeting timeout</string>
     
     <!-- Navigation bar button color -->
     <string name="navbar_button_tint_title">Navigation button tint</string>
@@ -1311,5 +1319,19 @@ sword is entered</string>
     <!-- Statusbar Bliss logo -->
     <string name="status_bar_bliss_logo_title">Bliss logo</string>
     <string name="status_bar_bliss_logo_summary">Enable to show Bliss logo on the left side of statusbar</string>
+    
+    <!-- Smart Control -->
+    <string name="smartcontrol_settings_title">Smart Control</string>
+    <string name="direct_control_title">Direct control</string>
+    <string name="direct_call_for_dialer_title">Direct call in dailer</string>
+    <string name="direct_call_for_dialer_summary">Lift phone to ear after entering number in dialer to call directly</string>
+    <string name="direct_call_for_mms_title">Direct call in MMS</string>
+    <string name="direct_call_for_mms_summary">Lifting phone to ear will automatically call current contact</string>
+    
+    <!-- Slim Shortcuts -->
+    <string name="slim_shortcut_picker">Slim Actions</string>
+    
+    <string name="qs_slim_action_title">SlimActions</string>
+    <string name="qs_slim_action_summary">Add and set the order of SlimActions for SlimAction tile</string>
 
 </resources>
